@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm mostly a **Ruby on Rails** developer. I also try out other technologies. Check my repositories on Github for all the things I randomly code. 
+   
+I also have a [Medium](https://medium.com/@anMagpie) page. Feel free to give a me a follow there.
+   
+Currently working at [Povio Labs](https://poviolabs.com/) for clients all around the world and Silicon Valley’s tech companies 🌎
+
+🌱 I’m currently re-learning **.NET C#** so I can try to make something exciting with **.NET MAUI.** :star2:
+
+
 <!--
 **zprima/zprima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
