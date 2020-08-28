@@ -2,7 +2,7 @@
 
 I'm mostly a **Ruby on Rails** developer. I also try out other technologies. Check my repositories on Github for all the things I randomly code. I also have a [Medium](https://medium.com/@anMagpie) page. Feel free to give a me a follow there.
 
-🌱 I’m currently re-learning **.NET C#** so I can try to make something exciting with **.NET MAUI.** :star2:
+🌱 I’m currently re-learning **.NET C#** so I can try to make something exciting with **.NET MAUI.** :star2:<br>
 🔭 I’m currently working on a Hiking app inspired by Instagram
 
 <!--
