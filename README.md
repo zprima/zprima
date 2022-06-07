@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-By day a **Ruby on Rails** developer. I also explore mobile and other web technologies, to see what's new. Check my repositories on Github for all the things I randomly code. I also have a [Medium](https://medium.com/@anMagpie) page.
+By day a **Ruby on Rails** developer. I also explore mobile and other web technologies, to see what's new. Check my repositories on Github for all the things I randomly code. I also have a [Medium](https://primasky.medium.com) page.
 
 🌱 I’m currently learning Android Develpment with **Jetpack Compose** so I can try to make something exciting with it :star2:<br>
 🔭 I’m currently working on various apps that would help me better understand Compose
