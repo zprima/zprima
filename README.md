@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-By day a **Ruby on Rails** developer, crafting web applications on the backend. I also explore mobile and other technologies, to see what's new. Check out my GitHub repositories for a glimpse into my coding adventures! 🚀
-
-🌱 Currently, I'm diving into iOS with SwiftUI. Why? Because I'm on a mission to create something truly exciting! ✨
-
 <!--
 **zprima/zprima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
